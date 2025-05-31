@@ -15,7 +15,7 @@ An intelligent web application that detects whether a news article is **Real** o
 
 
 ## 🎥 Preview
-![Screenshot 2025-05-31 131146](https://github.com/user-attachments/assets/c52c4074-16f1-4343-a347-da3f16587c36)
+![Screenshot 2025-05-31 131938](https://github.com/user-attachments/assets/bdf3ed6d-18d8-44ae-8f41-3b96b0efdadf)
 
 ![Screenshot 2025-05-31 131623](https://github.com/user-attachments/assets/4638016b-4227-4837-b9ce-fa91843cd8ce)
 
