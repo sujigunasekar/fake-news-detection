@@ -2,7 +2,7 @@
 
 An intelligent web application that detects whether a news article is **Real** or **Fake** using Natural Language Processing and Machine Learning. Built with 🐍 Python, ⚛️ Flask, and 🎨 Bootstrap.
 
----
+
 
 ## 🌟 Features
 
@@ -12,13 +12,16 @@ An intelligent web application that detects whether a news article is **Real** o
 ✅ Trained using **TF-IDF** + **Logistic Regression**  
 ✅ Deploy-ready structure for platforms like Heroku, Render, Streamlit, etc.
 
----
+
 
 ## 🎥 Preview
+![Screenshot 2025-05-31 131146](https://github.com/user-attachments/assets/c52c4074-16f1-4343-a347-da3f16587c36)
 
-![Preview Screenshot](https://via.placeholder.com/800x400.png?text=Fake+News+Detection+App+Preview)
+![Screenshot 2025-05-31 131623](https://github.com/user-attachments/assets/4638016b-4227-4837-b9ce-fa91843cd8ce)
 
----
+![Screenshot 2025-05-31 131803](https://github.com/user-attachments/assets/02ec7afb-2361-4b83-bc7e-2c4e65b89cc9)
+
+
 
 ## 📁 Project Structure
 
